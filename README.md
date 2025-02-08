@@ -13,7 +13,8 @@ Images of fib output:
 ![image](https://github.com/user-attachments/assets/10ba39a1-8893-46f6-85dd-205c939ec915)
 ![image](https://github.com/user-attachments/assets/daaa87b3-c68d-4599-ae13-3f96bd80fa92)
 Image of plot:
-Fibonacci Number (n) vs. Execution Time (seconds).png
+![Fibonacci Number (n) vs  Execution Time (seconds)](https://github.com/user-attachments/assets/bcf8fd10-7bd3-47ed-9152-7ccdd8bde54d)
+
 
 
 
